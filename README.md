@@ -1,2 +1,3 @@
 # Heart_EDA
-Exploratory Data Analysis of Heart Disease Dataset with Python, Pandas, Matplotlib &amp; Seaborn.
+
+Exploratory Data Analysis (EDA) on Heart Disease Dataset using Python, Pandas, Matplotlib, and Seaborn. Performed data cleaning, feature analysis, correlation study, and visualization to identify factors influencing heart disease risk.
